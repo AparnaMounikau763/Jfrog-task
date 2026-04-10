@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  IMAGE_NAME: my-python-app
+  IMAGE_NAME: jfrog-task-build-image
 
 jobs:
   build-and-push:
